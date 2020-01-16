@@ -32,7 +32,7 @@
 
 [ClashX-Github](https://github.com/yichengchen/clashX/releases/latest)
 
-[V2rayU-Github](https://github.com/yanue/V2rayU/releases/latest)  |
+[V2rayU-Github](https://github.com/yanue/V2rayU/releases/latest)
 
 
 # 微软常用运行库合集包
