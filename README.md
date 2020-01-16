@@ -41,7 +41,6 @@
 
 支持版本：XP/2003/Vista/Win7/Win8/Win8.1/Win10（32 位 + 64 位平台）
 
-问：如何选择版本？
-答：32位系统选择x86版本的，64位系统选择x64版本
+32位系统选择x86版本的，64位系统选择x64版本
 
 https://github.com/xt1085/app/releases/download/app/Microsoft.zip
