@@ -1,15 +1,3 @@
-## iOS
-
-[Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
-
-[Kitsunebi-iTunes](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
-
-[Quantumult-iTunes](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf)
-
-[Quantumult X-iTunes](https://apps.apple.com/us/app/quantumult-x/id1443988620) 
-
-[Pharos-iTunes](https://apps.apple.com/us/app/pharos-pro/id1456610173)
-
 ## Android
 
 [Clash-Github](https://github.com/xt1085/app/releases/latest)
@@ -33,6 +21,18 @@
 [ClashX-Github](https://github.com/yichengchen/clashX/releases/latest)
 
 [V2rayU-Github](https://github.com/yanue/V2rayU/releases/latest)
+
+## iOS
+
+[Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
+
+[Kitsunebi-iTunes](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
+
+[Quantumult-iTunes](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf)
+
+[Quantumult X-iTunes](https://apps.apple.com/us/app/quantumult-x/id1443988620) 
+
+[Pharos-iTunes](https://apps.apple.com/us/app/pharos-pro/id1456610173)
 
 
 ## 微软常用运行库合集包
