@@ -20,9 +20,6 @@
 
 [Pharos-Github](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
-
-
-
 # Windows
 
 [Clash-Github](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
@@ -36,8 +33,6 @@
 [ClashX-Github](https://github.com/yichengchen/clashX/releases/latest)
 
 [V2rayU-Github](https://github.com/yanue/V2rayU/releases/latest)  |
-
-
 
 
 # 微软常用运行库合集包
