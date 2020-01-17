@@ -1,8 +1,8 @@
 ## Android
 
-[Clash-Github](https://github.com/xt1085/app/releases/tag/clash)
+[Clash-Github](https://github.com/xt1085/app/releases/tag/app)
 
-[Kitsunebi-Github](https://github.com/xt1085/app/releases/tag/kitsunebi) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
+[Kitsunebi-Github](https://github.com/xt1085/app/releases/tag/app) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
 [V2RayNG-Github](https://github.com/2dust/v2rayNG/releases/latest)
 
