@@ -1,26 +1,28 @@
 ## Android
 
-[Clash-Github](https://github.com/xt1085/app/releases/tag/app)
+[Clash-GitHub](https://github.com/xt1085/app/releases/tag/app)
 
-[Kitsunebi-Github](https://github.com/xt1085/app/releases/tag/app) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
+[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
-[V2RayNG-Github](https://github.com/2dust/v2rayNG/releases/latest)
+[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest)
 
-[Pharos-Github](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
+[Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
 ## Windows
 
-[Clash-Github](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
+[Clash-GitHub](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
 
-[TCS-Github](https://github.com/KevinZonda/trojan-client-slim/releases/latest)
+[TCS-GitHub](https://github.com/KevinZonda/trojan-client-slim/releases/latest)
 
-[V2RayN-Github](https://github.com/2dust/v2rayN/releases/latest)
+[V2RayN-GitHub](https://github.com/2dust/v2rayN/releases/latest)
+
+[Netch-GitHub](https://github.com/NetchX/Netch/releases/latest)
 
 ## Mac
 
-[ClashX-Github](https://github.com/yichengchen/clashX/releases/latest)
+[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest)
 
-[V2rayU-Github](https://github.com/yanue/V2rayU/releases/latest)
+[V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest)
 
 ## iOS
 
