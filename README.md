@@ -43,4 +43,4 @@
 
 32位系统选择x86版本的，64位系统选择x64版本
 
-https://github.com/xt1085/app/releases/download/app/Microsoft.zip
+https://github.com/xt1085/app/releases/download/microsoft/Microsoft.zip
