@@ -46,3 +46,14 @@
 32位系统选择x86版本的，64位系统选择x64版本
 
 https://github.com/xt1085/app/releases/download/app/Microsoft.zip
+
+## Telegram ios客户端 解锁
+
+1.  升级 Telegram ios最新版
+2.  升级 Telegram Desktop最新版
+3.  打开 Telegram Desktop
+4.  点击 `Settings | 设置`
+5.  点击 `Privacy and Security | 隐私与安全`
+6.  点击 `Sensitive content | 敏感内容`
+7.  打开 `Disable filtering | 停止过滤`
+8.  重启 iOS客户端
