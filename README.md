@@ -49,8 +49,6 @@ https://github.com/xt1085/app/releases/download/app/Microsoft.zip
 
 ## Internet Download Manager 6.36.2（重新打包）
 
-重新打包Internet Download Manager的功能：
-
 1. 不需要注册（补丁pawel97 + keygen ADMIN @ CRACK）
   
 2. 多语言界面（包括俄语）
