@@ -38,7 +38,7 @@
 [Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Docs](https://merlinblog.xyz/wiki/shadowrocket.html) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
 
 
-## 微软常用运行库合集包
+## 微软常用运行库
 
 微软常用运行库合集包集合了各种电脑的常用组件，安装之后可以解决绝大多数电脑无法打开软件或者辅助应用的问题，一次安装解决各种后顾之忧。推荐大家每次重装了之后或者没装过的都直接安装，以后可以有效解决软件打开报错的问题，软件可以重复安装，不会有冲突，如果你遇见各种第三方软件，别人可以打开你打不开，就快点试试吧，绝对能够轻易的解决你的大部分问题。32位系统选择x86版本的，64位系统选择x64版本。
 
@@ -46,7 +46,7 @@
 
 https://github.com/xt1085/app/releases/download/app/Microsoft.zip
 
-## Internet Download Manager 6.36.2（重新打包）
+## IDM 6.36.2（重新打包）
 
 1. 不需要注册（补丁pawel97 + keygen ADMIN @ CRACK）
   
@@ -72,7 +72,7 @@ https://github.com/xt1085/app/releases/download/app/Microsoft.zip
 
 https://github.com/xt1085/app/releases/download/app/idm_6.36.2.zip
 
-## Telegram ios客户端 解锁
+## Telegram ios 解锁
 
 1.  升级 Telegram ios最新版
 2.  升级 Telegram Desktop最新版
