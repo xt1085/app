@@ -46,7 +46,7 @@
 
 https://github.com/xt1085/app/releases/download/app/Microsoft.zip
 
-## IDM 6.36.2（重新打包）
+## IDM 6.36.2
 
 1. 不需要注册（补丁pawel97 + keygen ADMIN @ CRACK）
   
