@@ -6,7 +6,7 @@
 
 [Clash-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Docs](https://merlinblog.xyz/wiki/cfa.html)
 
-[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases) \| [Docs](https://merlinblog.xyz/wiki/v2rayng.html)
+[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest) \| [Docs](https://merlinblog.xyz/wiki/v2rayng.html)
 
 [Kitsunebi-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Docs](https://merlinblog.xyz/wiki/kitsunebi.html) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
