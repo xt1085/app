@@ -12,7 +12,7 @@
 
 ## Windows
 
-[TCS-GitHub](https://github.com/KevinZonda/trojan-client-slim/releases/latest)
+[TCS-GitHub](https://github.com/KevinZonda/trojan-client-slim/releases)
 
 [V2RayN-GitHub](https://github.com/2dust/v2rayN/releases/latest)
 
