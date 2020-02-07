@@ -4,11 +4,11 @@
 
 [Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
-[Clash-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Docs](https://merlinblog.xyz/wiki/cfa.html)
+[Clash-GitHub](https://github.com/xt1085/app/releases/tag/app)
 
-[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest) \| [Docs](https://merlinblog.xyz/wiki/v2rayng.html)
+[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest)
 
-[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Docs](https://merlinblog.xyz/wiki/kitsunebi.html) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
+[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
 ## Windows
 
@@ -16,16 +16,16 @@
 
 [V2RayN-GitHub](https://github.com/2dust/v2rayN/releases/latest)
 
-[Clash-GitHub](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest) \| [Docs](https://merlinblog.xyz/wiki/cfw.html)
+[Clash-GitHub](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
 
-[Netch-GitHub](https://github.com/NetchX/Netch/releases/latest) \| [Docs](https://merlinblog.xyz/wiki/netch.html)
+[Netch-GitHub](https://github.com/NetchX/Netch/releases/latest)
 
 
 ## Mac
 
 [V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest)
 
-[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest) \| [Docs](https://merlinblog.xyz/wiki/ClashX.html)
+[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest)
 
 ## iOS
 
@@ -33,11 +33,11 @@
 
 [Kitsunebi-iTunes](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
-[Quantumult X-iTunes](https://apps.apple.com/us/app/quantumult-x/id1443988620) \| [Docs](https://merlinblog.xyz/wiki/quanx.html)
+[Quantumult X-iTunes](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 
-[Quantumult-iTunes](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) \| [Docs](https://merlinblog.xyz/wiki/quan.html) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf)
+[Quantumult-iTunes](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf)
 
-[Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Docs](https://merlinblog.xyz/wiki/shadowrocket.html) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
+[Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
 
 
 ## 微软常用运行库
