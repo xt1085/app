@@ -25,7 +25,7 @@
 
 [V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest)
 
-[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest)
+[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
 
 ## iOS
 
