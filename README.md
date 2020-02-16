@@ -23,7 +23,7 @@
 
 ## Mac
 
-[V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest)
+[V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
 
 [ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
 
