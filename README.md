@@ -14,7 +14,7 @@
 
 [TCS-GitHub](https://github.com/KevinZonda/trojan-client-slim/releases)
 
-[V2RayN-GitHub](https://github.com/2dust/v2rayN/releases/latest)
+[V2RayN-Core-GitHub](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
 
 [Clash-GitHub](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
 
