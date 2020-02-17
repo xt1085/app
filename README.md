@@ -4,11 +4,11 @@
 
 [Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
-[Clash-GitHub](https://github.com/xt1085/app/releases/tag/app)
+[Clash-GitHub](https://github.com/xt1085/app/releases/download/app/Clash.apk)
 
 [V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest)
 
-[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/tag/app) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
+[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
 ## Windows
 
