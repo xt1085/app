@@ -39,6 +39,10 @@
 
 [Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118) \| [Rule](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
 
+## Linux
+
+[V2rayL-GitHub](https://github.com/jiangxufeng/v2rayL/releases/latest)
+
 
 ## 微软常用运行库
 
