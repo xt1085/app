@@ -58,9 +58,7 @@
 
 ## 微软常用运行库
 
-安装之后可以解决绝大多数电脑无法打开软件或者软件报错的问题，32位系统选择x86版本的，64位系统选择x64版本。
-
-支持版本：XP/2003/Vista/Win7/Win8/Win8.1/Win10（32 位 + 64 位平台）
+解决绝大多数电脑无法打开软件或者软件报错的问题，XP/2003/Vista/Win7/Win8/Win8.1/Win10。
 
 https://github.com/xt1085/app/releases/download/app/Microsoft.zip
 
