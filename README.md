@@ -4,7 +4,7 @@
 
 [Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
-[Clash-GitHub](https://github.com/xt1085/app/releases/download/app/Clash.apk)
+[Clash-GitHub](https://github.com/Kr328/ClashForAndroid/releases)
 
 [V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest)
 
