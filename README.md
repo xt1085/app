@@ -1,7 +1,5 @@
 ## Android
 
-[igniter-GitHub](https://github.com/trojan-gfw/igniter/releases)
-
 [Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
 [Clash-GitHub](https://github.com/Kr328/ClashForAndroid/releases)
