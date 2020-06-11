@@ -37,13 +37,11 @@
 
 - [x] [https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Quantumult.conf](https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Quantumult.conf)
 
-- [x] [https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf)
 
 [Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 - [x] [https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf](https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf)
 
-- [x] [https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf)
 
 [Kitsunebi-iTunes](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
 
