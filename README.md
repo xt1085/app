@@ -1,24 +1,25 @@
 ## Android
 
-[Clash-app-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
+[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
+
+[V2RayNG](https://github.com/2dust/v2rayNG/releases/latest)
 
 [Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
 
 - [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
-[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
-
 [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
-[V2RayNG](https://github.com/2dust/v2rayNG/releases/latest)
+[Clash-app-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
+
 
 ## iOS
+
+[Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
 
 [Kitsunebi](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
 
 - [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
-
-[Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
 
 [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
 
@@ -42,13 +43,13 @@
 
 ## Windows
 
+[TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
+
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
 
 [Netch](https://github.com/NetchX/Netch/releases/latest)
 
-[TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
-
-[V2RayN-Core](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
+[V2RayN](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
 
 
 
