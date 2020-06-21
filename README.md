@@ -4,32 +4,32 @@
 
 [V2RayNG](https://github.com/2dust/v2rayNG/releases/latest)
 
-[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
-
-- [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
-
 [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
 [Clash-app-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
+
+[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
+
+- [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
 
 ## iOS
 
 [Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
 
-[Kitsunebi](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
-
-- [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
+[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 
 [Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
 
 - [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Quantumult.conf
 
-[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
-
 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 - [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf
+
+[Kitsunebi](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
+
+- [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
 ## Linux
 
