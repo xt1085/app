@@ -1,57 +1,57 @@
 ## Android
 
-[Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
+[Clash-app-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases)
 
-[Pharos-GitHub](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
-
-[Clash-app-universal-release.apk-GitHub](https://github.com/Kr328/ClashForAndroid/releases)
-
-[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases/latest)
-
-[Kitsunebi-GitHub](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
+[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
 
 - [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
-## Windows
+[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
 
-[TCS-GitHub](https://github.com/KevinZonda/trojan-client-slim/releases)
+[Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
-[Clash-GitHub](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
-
-[Netch-GitHub](https://github.com/NetchX/Netch/releases/latest)
-
-[V2RayN-Core-GitHub](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
-
-
-## Mac
-
-[V2rayU-GitHub](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
-
-[ClashX-GitHub](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
+[V2RayNG](https://github.com/2dust/v2rayNG/releases/latest)
 
 ## iOS
 
-[Pharos-iTunes](https://apps.apple.com/us/app/pharos-pro/id1456610173)
-
-[Quantumult X-iTunes](https://apps.apple.com/us/app/quantumult-x/id1443988620)
-
-[Quantumult-iTunes](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
-
-- [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Quantumult.conf
-
-
-[Shadowrocket-iTunes](https://apps.apple.com/us/app/shadowrocket/id932747118)
-
-- [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf
-
-
-[Kitsunebi-iTunes](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
+[Kitsunebi](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)
 
 - [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
+[Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
+
+[Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)
+
+- [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Quantumult.conf
+
+[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
+
+[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+- [x] https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf
+
 ## Linux
 
-[V2rayL-GitHub](https://github.com/jiangxufeng/v2rayL/releases/latest)
+[V2rayL](https://github.com/jiangxufeng/v2rayL/releases/latest)
+
+## Mac
+
+[ClashX](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
+
+[V2rayU](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
+
+## Windows
+
+[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
+
+[Netch](https://github.com/NetchX/Netch/releases/latest)
+
+[TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
+
+[V2RayN-Core](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
+
+
+
 
 ## 推荐使用公共DNS
 
