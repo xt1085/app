@@ -33,17 +33,6 @@
 
 - [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
 
-
-## Mac
-
-[ClashX](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
-
-[V2rayU](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
-
-## Linux
-
-[V2rayL](https://github.com/jiangxufeng/v2rayL/releases/latest)
-
 ## Windows
 
 [TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
@@ -54,7 +43,15 @@
 
 [V2RayN](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
 
+## Mac
 
+[ClashX](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
+
+[V2rayU](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
+
+## Linux
+
+[V2rayL](https://github.com/jiangxufeng/v2rayL/releases/latest)
 
 
 ## 推荐使用公共DNS
