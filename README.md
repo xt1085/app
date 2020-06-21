@@ -7,7 +7,7 @@
 
 [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
-[Clash-app-universal-release.apk](https://github.com/Kr328/ClashForAndroid/releases) 
+[Clash (app-universal-release.apk)](https://github.com/Kr328/ClashForAndroid/releases) 
 
 
 [Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
