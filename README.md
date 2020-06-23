@@ -51,8 +51,11 @@
 
 ## Linux
 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+
 [V2rayL](https://github.com/jiangxufeng/v2rayL/releases/latest)
 
+ 
 
 ## 推荐使用公共DNS
 
