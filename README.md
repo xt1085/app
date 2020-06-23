@@ -1,9 +1,9 @@
 ## Android
 
 
-[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases/latest)
+[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
 
-[V2RayNG](https://github.com/2dust/v2rayNG/releases/latest)
+[V2RayNG](https://github.com/2dust/v2rayNG/releases)
 
 [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
@@ -37,17 +37,17 @@
 
 [TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
 
-[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest)
+[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-[Netch](https://github.com/NetchX/Netch/releases/latest)
+[Netch](https://github.com/NetchX/Netch/releases)
 
 [V2RayN](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
 
 ## Mac
 
-[ClashX](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg)
+[ClashX](https://github.com/yichengchen/clashX/releases)
 
-[V2rayU](https://github.com/yanue/V2rayU/releases/latest/download/V2rayU.dmg)
+[V2rayU](https://github.com/yanue/V2rayU/releases)
 
 ## Linux
 
