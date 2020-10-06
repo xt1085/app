@@ -10,10 +10,6 @@
 [Clash (app-universal-release.apk)](https://github.com/Kr328/ClashForAndroid/releases) 
 
 
-[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
-
-- [x] https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf
-
 
 ## iOS
 
