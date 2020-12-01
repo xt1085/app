@@ -1,7 +1,8 @@
 ## Android
 
+[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
 
-[shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 [V2RayNG](https://github.com/2dust/v2rayNG/releases)
 
