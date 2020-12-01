@@ -29,7 +29,7 @@
 
 ## Windows
 
-[TCS](https://github.com/KevinZonda/trojan-client-slim/releases)
+[SSTap](https://github.com/xt1085/app/releases/download/app/sstap1.0.9.7.zip)
 
 [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
