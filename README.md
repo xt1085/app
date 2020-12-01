@@ -1,7 +1,7 @@
 ## Android
 
 
-[Pharos](https://github.com/PharosVip/Pharos-Android-Test/releases)
+[shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 [V2RayNG](https://github.com/2dust/v2rayNG/releases)
 
@@ -13,7 +13,7 @@
 
 ## iOS
 
-[Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
+[Loon](https://apps.apple.com/us/app/loon/id1373567447)
 
 [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 
