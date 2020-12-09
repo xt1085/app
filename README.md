@@ -1,15 +1,14 @@
 ## Android
 
-[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
-
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
+[Clash](https://github.com/Kr328/ClashForAndroid/releases/latest) 
 
 [V2RayNG](https://github.com/2dust/v2rayNG/releases)
 
 [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
-[Clash (app-universal-release.apk)](https://github.com/Kr328/ClashForAndroid/releases) 
+[Kitsunebi](https://github.com/xt1085/app/releases/download/app/Kitsunebi.apk)
 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 
 ## iOS
